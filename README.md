@@ -47,7 +47,7 @@ Gran Faculdade — Concluído
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ana-luizaferreira/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/ana-luizaferreira/)
 
 ---
 
