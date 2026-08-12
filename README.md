@@ -1,18 +1,54 @@
-## Ana Luiza
+# 👋 Olá! Eu sou a Ana Luiza
 
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Positivo.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-   
-  <a href = "mailto:analuizaferreira105@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://br.linkedin.com/in/ana-luizaferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+💻 Desenvolvedora Web em formação, com interesse em **Desenvolvimento Full Stack** e em constante evolução na área de tecnologia.
+
+## 🚀 Sobre mim
+
+Atualmente, estou desenvolvendo meus conhecimentos em programação e desenvolvimento web por meio da graduação e de projetos práticos.
+
+Tenho interesse em criar aplicações funcionais, intuitivas e que proporcionem uma boa experiência ao usuário. Busco constantemente aprender novas tecnologias e aprimorar minhas habilidades técnicas.
+
+## 🛠️ Tecnologias e conhecimentos
+
+### 💻 Atualmente estudando
+
+- HTML5
+- CSS3
+- JavaScript
+- Lógica de Programação
+- Desenvolvimento Web
+- Git e GitHub
+
+## 🎯 Áreas de interesse
+
+- Desenvolvimento Front-End
+- Desenvolvimento Full Stack
+- Criação de aplicações web
+- Experiência do usuário
+- Aprendizado contínuo em tecnologia
+
+## 📂 Projetos
+
+### 🎮 Jogo de Múltipla Escolha
+
+Projeto acadêmico desenvolvido utilizando **HTML, CSS e JavaScript**, com perguntas e alternativas interativas.
+
+🔗 [Acessar repositório](COLE-AQUI-O-LINK-DO-REPOSITÓRIO)
+
+## 🎓 Formação
+
+**Análise e Desenvolvimento de Sistemas**  
+Universidade Positivo — Em andamento
+
+**Pedagogia**  
+Gran Faculdade — Concluído
+
+## 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ana-luizaferreira/))
+
+---
+
+⭐ Obrigada pela visita ao meu perfil!
