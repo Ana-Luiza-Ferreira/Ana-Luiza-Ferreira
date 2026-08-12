@@ -35,7 +35,7 @@ Tenho interesse em criar aplicações funcionais, intuitivas e que proporcionem 
 
 Projeto acadêmico desenvolvido utilizando **HTML, CSS e JavaScript**, com perguntas e alternativas interativas.
 
-🔗 [Acessar repositório](COLE-AQUI-O-LINK-DO-REPOSITÓRIO)
+🔗 [Acessar repositório](https://github.com/Ana-Luiza-Ferreira/first-game.git)
 
 ## 🎓 Formação
 
